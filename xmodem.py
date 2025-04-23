@@ -52,7 +52,7 @@ def send_file(ser, file_path, use_crc=True):
             if not data:
                 break
             if len(data) < PACKET_SIZE:
-                data += b'\x1A' * (PACKET_SIZE - len(data))
+                data += b'\0' * (PACKET_SIZE - len(data))
             pkt = bytearray([SOH, block % 256, 0xFF - (block % 256)]) + data
             if use_crc:
                 c = calc_crc(data)
