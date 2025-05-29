@@ -1,0 +1,21 @@
+Parametry;SNR (dB);MSE;Plik wyjściowy
+Fs=8000Hz Bits=4;-80.95;4.443878e-03;audio_Fs8000_Bits4.wav
+Fs=8000Hz Bits=8;-56.33;1.534541e-05;audio_Fs8000_Bits8.wav
+Fs=8000Hz Bits=12;-32.08;5.759398e-08;audio_Fs8000_Bits12.wav
+Fs=8000Hz Bits=16;-5.90;1.388627e-10;audio_Fs8000_Bits16.wav
+Fs=11025Hz Bits=4;-80.93;4.443877e-03;audio_Fs11025_Bits4.wav
+Fs=11025Hz Bits=8;-56.32;1.534534e-05;audio_Fs11025_Bits8.wav
+Fs=11025Hz Bits=12;-32.06;5.758975e-08;audio_Fs11025_Bits12.wav
+Fs=11025Hz Bits=16;-5.88;1.387224e-10;audio_Fs11025_Bits16.wav
+Fs=16000Hz Bits=4;-80.91;4.443875e-03;audio_Fs16000_Bits4.wav
+Fs=16000Hz Bits=8;-56.29;1.534524e-05;audio_Fs16000_Bits8.wav
+Fs=16000Hz Bits=12;-32.04;5.758392e-08;audio_Fs16000_Bits12.wav
+Fs=16000Hz Bits=16;-5.85;1.385255e-10;audio_Fs16000_Bits16.wav
+Fs=22050Hz Bits=4;-80.89;4.443874e-03;audio_Fs22050_Bits4.wav
+Fs=22050Hz Bits=8;-56.27;1.534516e-05;audio_Fs22050_Bits8.wav
+Fs=22050Hz Bits=12;-32.02;5.757903e-08;audio_Fs22050_Bits12.wav
+Fs=22050Hz Bits=16;-5.83;1.383659e-10;audio_Fs22050_Bits16.wav
+Fs=44100Hz Bits=4;-80.87;4.443872e-03;audio_Fs44100_Bits4.wav
+Fs=44100Hz Bits=8;-56.25;1.534507e-05;audio_Fs44100_Bits8.wav
+Fs=44100Hz Bits=12;-32.00;5.757381e-08;audio_Fs44100_Bits12.wav
+Fs=44100Hz Bits=16;-5.80;1.382098e-10;audio_Fs44100_Bits16.wav
